@@ -7,7 +7,7 @@ puts "Great! What is your middle name?"
 
 middle=gets.chomp
 
-puts "Thanks! And what is your last name?"
+puts "Thanks! And what is your sir name?"
 
 last=gets.chomp
 
